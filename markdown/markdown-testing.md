@@ -1,5 +1,5 @@
 ---
-title: Markdown testing
+title: 
 description: A sample page for testing markdown rendering
 image: /assets/home_bg.webp
 keywords: markdown, testing, template
